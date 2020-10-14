@@ -6,3 +6,5 @@ alma
 lila
 kék
 piros
+zoldeskék
+legsotetebb fekete
