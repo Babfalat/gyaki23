@@ -4,3 +4,4 @@ sárga
 piros
 lila
 kék
+piros
